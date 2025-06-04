@@ -68,7 +68,7 @@ flowchart TD
 
 ## 🚪 快速入口
 根据你的背景选择起点：
-- **我是编程新手** → [Python 快速入门]([网址](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math))  
+- **我是编程新手** → [Python 快速入门](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math)    
 - **我有Python基础** → [机器学习核心概念](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)
 - **我想直接实战** → 初级项目集
 - **我要深入研究** → 论文精读指南
