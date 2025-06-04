@@ -27,7 +27,7 @@ graph LR
 - 常用方法：Dropout（随机屏蔽神经元）、L1/L2（控制权重数值）
 
 ### 📚 ​​学习资源​​：
-《深度学习》(花书) - AI领域的"圣经"，配奶茶慢慢啃效果更佳 ☕
+《[深度学习](https://github.com/exacity/deeplearningbook-chinese/tree/master)》(花书) - AI领域的"圣经"，配奶茶慢慢啃效果更佳 ☕
 
 ## 二、计算机视觉：机器的"眼睛" 0.0
 ### 核心技术组合拳​​：
