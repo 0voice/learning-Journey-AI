@@ -49,7 +49,14 @@ print("垃圾邮件" if prediction[0] == 1 else "正常邮件")  # 输出: 垃�
 ### 3. 支持向量机(SVM)：找最佳决策边界  
 - 核心思想​​：在数据点之间找到最宽的"隔离带"​​
 - 实例应用​​：手写数字识别  
-![SVM工作原理](https://miro.medium.com/max/1400/1*1H8HwR3u6e8e9ZOlNLLJQg.png)
+ 基础概念图示：
+```mermaid
+graph TD
+    A[支持向量机核心思想] --> B[寻找最佳超平面]
+    A --> C[最大化分类间隔]
+    A --> D[处理非线性数据]
+    style A fill:#f9f,stroke:#333
+```
 
 ### 4. 决策树：树状决策模型
 - ​​工作原理​​：像"20个问题"游戏，通过一系列问题得出结论
@@ -224,6 +231,3 @@ random_search = RandomizedSearchCV(RandomForestClassifier(),
                                  cv=5)
 random_search.fit(X_train, y_train)
 ```
-
-**记住：机器学习不是魔法！好的模型 = 70%数据质量 + 20%特征工程 + 10%模型选择与调优**  
-开始你的机器学习之旅吧！实践是最好的学习方法，尝试解决Kaggle上的入门竞赛来积累经验。
