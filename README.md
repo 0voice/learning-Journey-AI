@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](Python)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Stars](https://img.shields.io/github/stars/0vovice/learning-Journey-AI?style=social)](https://github.com/0vovice/learning-Journey-AI)
+[![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)
 
 ## 🌟 项目亮点
 
