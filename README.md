@@ -152,10 +152,10 @@ print('训练完成!')
 《[Deep Learning](https://github.com/exacity/deeplearningbook-chinese/tree/master)》
 
 - **论文**
-Attention is All You Need · ResNet
+[Attention is All You Need](https://github.com/0voice/learning-Journey-AI/blob/main/papers%20of%20deep%20learning/Attention%20Is%20All%20You%20Need.pdf) · ResNet
 
 - **开发工具**
-Google Colab · VS Code
+[Google Colab](https://colab.research.google.com/)
 
 ### 💖 致谢
 - 开源社区提供的优秀工具
