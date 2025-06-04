@@ -97,6 +97,6 @@ graph LR
 - 双方对抗提升，直到假币无法被识别
 
 ### 🤖 ​​学习资源​​：
-Hugging Face平台（AI界GitHub）→ 直接在线体验Stable Diffusion生成图片！
+[Hugging Face平台](https://huggingface.co/)（AI界GitHub）→ 直接在线体验Stable Diffusion生成图片！
 
 **💡 ​​关键提示**​​：深度学习≠魔法！先掌握基础理论再攻具体方向，遇到公式别怕→先跑通代码再回头理解理论效果更佳！
