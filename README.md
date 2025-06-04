@@ -1,9 +1,6 @@
-# 🚀 AI-Learning - 从零开始的 AI 方向学习生活
-
-> **结构化 | 持续更新 | 自驱学习**    [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)
-
-> 为所有对 AI 知识感兴趣的学习者提供的 AI/ML/DL 系统学习指南，包含精选资源、代码示例和实践路径
-
+> # 🚀 AI-Learning 从零开始的 AI 方向学习生活
+>> **结构化 | 持续更新 | 自驱学习**    [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)  
+>> 为所有对 AI 知识感兴趣的学习者提供的 AI/ML/DL 系统学习指南，包含精选资源、代码示例和实践路径
 
 
 ## 🌟 项目亮点
@@ -149,10 +146,10 @@ print('训练完成!')
 
 ### 📌 核心资源库
 - **在线课程**
-Coursera ML · Fast.ai
+[Coursera DL · Fast.ai](https://course.fast.ai/)
 
 - **经典书籍**
-《Pattern Recognition and ML》 · 《Deep Learning》
+《[Deep Learning](https://github.com/exacity/deeplearningbook-chinese/tree/master)》
 
 - **论文**
 Attention is All You Need · ResNet
