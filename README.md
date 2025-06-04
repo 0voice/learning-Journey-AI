@@ -148,3 +148,23 @@ print('训练完成!')
 - [图像分类实战](https://example.com/projects/image-classification)  
 - [文本情感分析](https://example.com/projects/sentiment-analysis)  
 - [聊天机器人构建](https://example.com/projects/chatbot-system)
+
+### 📌 核心资源库
+- **在线课程**
+Coursera ML · Fast.ai
+
+- **经典书籍**
+《Pattern Recognition and ML》 · 《Deep Learning》
+
+- **论文**
+Attention is All You Need · ResNet
+
+- **开发工具**
+Google Colab · VS Code
+
+### 💖 致谢
+- 开源社区提供的优秀工具
+
+- 教育先驱：社会各界AI学者
+
+- 每一位使用和传播资料的学习者
