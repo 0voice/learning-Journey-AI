@@ -1,4 +1,4 @@
-# MLOps基础
+# MLOps基础和监控
 ## MLflow
 
 **安装：**
@@ -28,3 +28,33 @@ pip install wandb
 sudo apt install docker.io
 ```
 - 访问 [Docker安装页面](https://docs.docker.com/get-docker/) 获取更多信息。
+
+## Kubeflow：
+
+- 用途：为 Kubernetes 提供端到端的机器学习工作流工具。
+
+**安装：**
+
+```bash
+pip install kubeflow
+```
+
+## TensorBoard：
+
+- 用途：TensorFlow 的可视化工具，用于查看训练过程中的各种指标。
+
+**安装：**
+
+```bash
+pip install tensorboard
+```
+
+## Prometheus：
+
+- 用途：开源监控系统，能够监控机器学习工作流和部署。
+
+**安装：**
+
+```bash
+docker pull prom/prometheus
+```
