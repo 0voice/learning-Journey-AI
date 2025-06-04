@@ -27,4 +27,4 @@ pip install wandb
 ```bash
 sudo apt install docker.io
 ```
-访问 [Docker安装页面](https://docs.docker.com/get-docker/) 获取更多信息。
+- 访问 [Docker安装页面](https://docs.docker.com/get-docker/) 获取更多信息。
