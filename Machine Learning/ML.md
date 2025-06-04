@@ -229,20 +229,6 @@ random_search = RandomizedSearchCV(RandomForestClassifier(),
                                  cv=5)
 random_search.fit(X_train, y_train)
 ```
-# 机器学习工作流程总结
-```mermaid
-%% 链表/树/图 - 使用Mermaid绘制
-graph TD
-    A[理解问题] --> B[数据收集]
-    B --> C[数据预处理]
-    C --> D[模型选择]
-    D --> E[模型训练]
-    E --> F[模型评估]
-    F --> G{效果满意?}
-    G -->|否| D
-    G -->|是| H[超参数调优]
-    H --> I[最终模型评估]
-    I --> J[模型部署]
-```
+
 **记住：机器学习不是魔法！好的模型 = 70%数据质量 + 20%特征工程 + 10%模型选择与调优**  
 开始你的机器学习之旅吧！实践是最好的学习方法，尝试解决Kaggle上的入门竞赛来积累经验。
