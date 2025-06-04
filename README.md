@@ -1,5 +1,5 @@
 > # 🚀 AI-Learning 从零开始的 AI 方向学习生活
->> **结构化 | 持续更新 | 自驱学习**    [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)  
+>> **结构化 | 持续更新 | 最新学习**    [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)  
 >> 为所有对 AI 知识感兴趣的学习者提供的 AI/ML/DL 系统学习指南，包含精选资源、代码示例和实践路径
 
 
@@ -27,13 +27,13 @@ flowchart TD
 
 ## 📚 学习阶段
 
-### 阶段 0：前置知识
+### 阶段 0：[前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math)
 - **编程基础**  
   Python语法 · 数据结构 · 算法基础 · Git/GitHub
 - **数学基础**  
   线性代数 · 概率统计 · 微积分 · 优化方法
 
-### 阶段 1：机器学习
+### 阶段 1：[机器学习](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)
 - **监督学习**  
   线性/逻辑回归 · SVM · 决策树 · 集成方法
 - **无监督学习**  
@@ -41,7 +41,7 @@ flowchart TD
 - **模型评估与优化**  
   交叉验证 · 超参数调优 · 评估指标
 
-### 阶段 2：深度学习
+### 阶段 2：[深度学习](https://github.com/0voice/learning-Journey-AI/tree/main/Deep%20learning)
 
 | 方向         | 核心技术                        | 学习资源                             |
 |--------------|---------------------------------|--------------------------------------|
@@ -50,7 +50,7 @@ flowchart TD
 | NLP          | RNN/Transformer·词嵌入          | [BERT论文](https://arxiv.org/abs/1810.04805)  |
 | 生成模型     | GAN·Diffusion·LLMs              | [Hugging Face](https://huggingface.co/)       |
 
-### 阶段 3：工具与实践
+### 阶段 3：[工具与实践](https://github.com/0voice/learning-Journey-AI/tree/main/tools)
 - **框架掌握**  
   PyTorch · TensorFlow · JAX
 - **数据处理**  
