@@ -1,5 +1,4 @@
-# 📖 有关AI方向学习的电子书合辑！！！
-
+# 📖 有关AI方向学习的电子书资源！！！
 ## AI 电子书资源
 
 1. [《深度学习》 - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)  
@@ -76,4 +75,3 @@
 
 25. [Deep Learning for Computer Vision by Rajalingappaa Shanmugamani](https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788621757)  
     深度学习在计算机视觉中的应用，涵盖从图像分类到目标检测等多个应用。
-
