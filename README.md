@@ -68,7 +68,7 @@ flowchart TD
 - **我想直接实战** → [项目集](https://github.com/pytorch/examples)
 - **我要深入研究** → [论文精读指南](https://github.com/terryum/awesome-deep-learning-papers)
 
-## 🛠️ 实战项目示例
+## 📌 实战项目示例
 ### CNN图像分类示例 - PyTorch
 
 ```python
@@ -143,19 +143,6 @@ print('训练完成!')
 - [图像分类实战](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E5%AE%9E%E6%88%98.md)
 - [文本情感分析](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.md)
 - [聊天机器人构建](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9E%84%E5%BB%BA.md)
-
-### 📌 核心资源库
-- **在线课程**
-[Coursera DL · Fast.ai](https://course.fast.ai/)
-
-- **经典书籍**
-《[Deep Learning](https://github.com/exacity/deeplearningbook-chinese/tree/master)》
-
-- **论文**
-[Attention is All You Need](https://github.com/0voice/learning-Journey-AI/blob/main/papers%20of%20deep%20learning/Attention%20Is%20All%20You%20Need.pdf)
-
-- **开发工具**
-[Google Colab](https://colab.research.google.com/)
 
 ### 💖 致谢
 - 开源社区提供的优秀工具
