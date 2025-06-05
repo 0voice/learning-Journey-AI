@@ -829,8 +829,8 @@ plt.show()
 通过这份教程，您已经初步掌握了AI所需的数学基础。数学就像编程的"内功"，需要持续练习才能真正理解其精髓！
 
 
+**<h3 id="1">🎯 阶段 1：[机器学习：零基础入门指南](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)</h3>**
 
-# 🎯 阶段 1：[机器学习：零基础入门指南](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)
 
 > ***什么是机器学习？***
 >> 想象一下，你在教孩子区分猫和狗：不是直接告诉他规则，而是给他看各种猫狗图片，让他自己总结特征。  
