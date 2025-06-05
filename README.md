@@ -55,8 +55,14 @@ flowchart TD
 ```
 
 # ***📚 学习路径分阶段***
+**[阶段 0：前置知识](#1)**
+**[阶段 1：机器学习](machine%20learning)**
+**[阶段 2：深度学习](Deep%20learning)**
+**[阶段 3：工具与实践](tools)**
 
-# 📌 [阶段 0：前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math) - [Python入门基础：零基础小白学习指南](Python%20and%20Math/python.md) 
+---
+
+# 📌 <h3 id="1">阶段 0：</h3> [前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math) - [Python入门基础：零基础小白学习指南](Python%20and%20Math/python.md) 
 
 
 ### 1.变量与数据类型
