@@ -140,9 +140,9 @@ print('训练完成!')
 
 ### 🔍 更多完整项目：
 
-- [图像分类实战](https://example.com/projects/image-classification)  
-- [文本情感分析](https://example.com/projects/sentiment-analysis)  
-- [聊天机器人构建](https://example.com/projects/chatbot-system)
+- [图像分类实战]([https://example.com/projects/image-classification](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E5%AE%9E%E6%88%98.md))  
+- [文本情感分析]([https://example.com/projects/sentiment-analysis](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.md))  
+- [聊天机器人构建]([https://example.com/projects/chatbot-system](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9E%84%E5%BB%BA.md))
 
 ### 📌 核心资源库
 - **在线课程**
