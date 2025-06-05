@@ -48,11 +48,29 @@ flowchart TD
 
 ## 📚 学习路径分阶段
 
-### 📌 阶段 0：[前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math)
-- **编程基础**  
-  Python · 数据结构 · 算法 · Git/GitHub
-- **数学基础**  
-  线性代数 · 概率统计 · 微积分 · 优化理论
+### 📌 阶段 0：[前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math)  
+
+#### 编程基础
+目录（点击跳转）  
+
+[books](books/readme.md)
+
+数据结构
+
+算法基础
+
+Git-GitHub
+
+数学基础
+
+线性代数
+
+概率统计
+
+微积分
+
+优化方法
+
 
 ### 🎯 阶段 1：[机器学习](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)
 - **监督学习**  
