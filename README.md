@@ -1,7 +1,5 @@
 # 🚀🚀🚀 AI Learning Hub · 2025 最强 AI 学习路线，从入门到实战，全流程自学指南
 
----
-
 <p align="center">
   <img src="Image1.png" alt="2025 AI Learning Banner" width="100%">
 </p>
@@ -56,9 +54,7 @@ flowchart TD
     style A fill:#4CAF50,stroke:#388E3C
 ```
 
-# 📚 学习路径分阶段
-
----
+# ***📚 学习路径分阶段***
 
 # 📌 [阶段 0：前置知识](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math) - [Python入门基础：零基础小白学习指南](Python%20and%20Math/python.md) 
 
@@ -2241,8 +2237,6 @@ pip install albumentations
 pip install detectron2
 ```
 
-
-
 ## 🚧 实战项目示例
 ### CNN图像分类示例 - PyTorch
 
@@ -2321,35 +2315,202 @@ print('训练完成!')
 
 
 ## 📚 核心资源总览
-### 🎥在线课程推荐
-- [Machine Learning - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
+### [🎥在线课程推荐](Course)
+***AI学习课程推荐***
 
-- [Deep Learning Specialization - deeplearning.ai](https://www.deeplearning.ai/program/deep-learning-specialization/)
+1. [深度学习专项课程（Deep Learning Specialization）](https://www.coursera.org/specializations/deep-learning) - 吴恩达教授主讲，内容涵盖神经网络、CNN、RNN 等。
 
-- [Fast.ai Practical DL](https://course.fast.ai/)
+2. [《动手学深度学习》课程](https://courses.d2l.ai/zh-v2/) - 基于 PyTorch 和 MXNet 的深度学习实践课程。
 
-### 📖电子书籍精选
-- [《深度学习》 - Ian Goodfellow](https://www.deeplearningbook.org/)
+3. [李宏毅深度学习教程](https://github.com/datawhalechina/leedl-tutorial) - 李宏毅教授的深度学习课程，内容深入浅出。
 
-- [《动手学深度学习》 - 李沐](https://zh.d2l.ai/)
+4. [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course?hl=zh-cn) - 适合机器学习初学者的入门课程。
 
-- [《强化学习导论》 - Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html)
+5. [NVIDIA 深度学习培训中心（DLI）](https://zh.wikipedia.org/wiki/NVIDIA%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83) - 提供深度学习、加速计算、数据科学等领域的开发培训。
 
-- [《统计学习方法》 - 李航](https://github.com/SmirkCao/Lihang)
+6. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - 斯坦福大学的深度学习课程，专注于计算机视觉和卷积神经网络（CNN）。
 
-### 📰经典论文
+7. [机器学习基础（Machine Learning by Stanford University）](https://www.coursera.org/learn/machine-learning?utm_source=chatgpt.com) - 由 Andrew Ng 主讲的经典机器学习课程，涵盖监督学习、非监督学习和其他基本概念。
+
+8. [Fast.ai 深度学习课程](https://course.fast.ai/) - 基于 PyTorch 的深度学习快速入门课程，旨在让每个人都能快速实践深度学习。
+
+9. [Deep Learning for Computer Vision (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188) - Udacity 提供的深度学习计算机视觉课程，教授如何使用 PyTorch 实现图像分类、目标检测等任务。
+
+10. [Deep Learning Nanodegree (Udacity)](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - Udacity 的深度学习纳米学位课程，覆盖神经网络、卷积神经网络、生成对抗网络（GAN）等内容。
+
+11. [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - 斯坦福大学的深度学习自然语言处理课程，重点讲解如何利用深度学习技术进行文本处理和分析。
+
+12. [Deep Learning with TensorFlow](https://www.edx.org/course/deep-learning-with-tensorflow) - edX 上的 TensorFlow 深度学习课程，适合想要学习使用 TensorFlow 进行深度学习的开发者。
+
+13. [Practical Deep Learning for Coders](https://course.fast.ai/) - Fast.ai 提供的在线课程，面向开发者，通过实践讲解深度学习的核心概念和应用。
+
+14. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - 麻省理工学院的深度学习入门课程，涵盖基本的深度学习概念、卷积神经网络、生成对抗网络等。
+
+15. [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) - Udemy 上的 R 语言数据科学和机器学习课程，适合想用 R 进行机器学习的开发者。
+
+16. [AI for Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone) - 吴恩达教授的人工智能入门课程，旨在为没有技术背景的人提供 AI 基础知识。
+
+17. [Deep Learning with PyTorch](https://pytorch.org/tutorials/) - PyTorch 官方提供的深度学习教程，涵盖从基础到高级的深度学习知识，适合不同水平的学习者。
+
+18. [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) - Coursera 上的强化学习专项课程，教授强化学习的核心概念和实际应用。
+
+19. [Stanford CS20: TensorFlow for Deep Learning Research](https://web.stanford.edu/class/cs20si/) - 斯坦福大学的课程，深入讲解 TensorFlow 及其在深度学习研究中的应用。
+
+20. [Applied Data Science with Python (University of Michigan)](https://www.coursera.org/specializations/data-science-python) - 密歇根大学的 Python 数据科学应用课程，涵盖机器学习、数据处理、数据可视化等内容。
+
+21. [Introduction to Machine Learning with Python](https://www.udemy.com/course/machine-learning-with-python/) - Udemy 提供的 Python 机器学习入门课程，适合刚接触机器学习的初学者。
+
+22. [Practical Reinforcement Learning](https://www.udemy.com/course/practical-reinforcement-learning/) - Udemy 上的强化学习实践课程，涵盖 Q-learning、深度 Q 网络等强化学习方法。
+
+23. [Mastering Machine Learning with scikit-learn](https://www.udemy.com/course/master-machine-learning-with-scikit-learn/) - Udemy 上的 scikit-learn 机器学习课程，适合 Python 用户使用 scikit-learn 库进行机器学习。
+
+24. [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai) - edX 提供的人工智能入门课程，适合 AI 初学者，覆盖基础概念、应用和方法。
+
+25. [AI for Robotics (Udacity)](https://www.udacity.com/course/ai-for-robotics--ud980) - Udacity 上的人工智能与机器人课程，涵盖路径规划、视觉处理等 AI 在机器人领域的应用。
+
+26. [AI Programming with Python (Udacity)](https://www.udacity.com/course/ai-programming-with-python-nanodegree--nd089) - Udacity 提供的 AI 编程课程，适合初学者，涵盖 Python 编程、NumPy、Pandas、Matplotlib、PyTorch 和深度学习基础。
+
+27. [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/learn/neural-networks-deep-learning) - 由 Andrew Ng 主讲的神经网络与深度学习课程，适合深度学习初学者。
+
+28. [Intro to TensorFlow for Deep Learning (Udacity)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - 由 Udacity 提供的 TensorFlow 深度学习入门课程，学习如何使用 TensorFlow 构建深度学习模型。
+
+29. [Reinforcement Learning (Udacity)](https://www.udacity.com/course/reinforcement-learning--ud600) - Udacity 提供的强化学习课程，适合希望深入理解强化学习及其应用的开发者。
+
+30. [Applied AI with DeepLearning (Coursera)](https://www.coursera.org/specializations/applied-ai) - 深入学习如何将 AI 和深度学习应用到实际项目中，包括计算机视觉和自然语言处理。
+
+31. [Practical Deep Learning for Coders v4 (Fast.ai)](https://course.fast.ai/) - Fast.ai 提供的深度学习实践课程，适合希望在 PyTorch 上快速构建深度学习项目的开发者。
+
+32. [Deep Reinforcement Learning (Coursera)](https://www.coursera.org/specializations/deep-reinforcement-learning) - 课程专注于深度强化学习的应用，覆盖算法、环境和模型训练等内容。
+
+33. [Introduction to Deep Learning with Keras (DataCamp)](https://www.datacamp.com/courses/deep-learning-with-keras) - DataCamp 提供的 Keras 深度学习入门课程，帮助学生理解神经网络和深度学习的基础概念。
+
+34. [Neural Networks and Deep Learning (Stanford)](http://cs231n.stanford.edu/) - 斯坦福大学深度学习课程，专注于计算机视觉和深度神经网络的应用。
+
+35. [Machine Learning with TensorFlow on Google Cloud (Coursera)](https://www.coursera.org/professional-certificates/machine-learning-tensorflow-gcp) - 由 Google 提供的 TensorFlow 和机器学习课程，学习如何在 Google Cloud 上部署机器学习模型。
+
+36. [Building Conversational Experiences with Dialogflow (Coursera)](https://www.coursera.org/learn/building-conversational-experiences-dialogflow) - Google 提供的课程，学习如何使用 Dialogflow 构建聊天机器人。
+
+37. [Advanced Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/advanced-machine-learning) - 适合具有机器学习基础的学生，课程涉及深度学习、计算机视觉、自然语言处理等高级主题。
+
+38. [Data Science and Machine Learning Bootcamp with R (Udemy)](https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/) - 使用 R 语言进行数据科学和机器学习的入门课程，适合初学者。
+
+39. [Introduction to Machine Learning with Python (Udemy)](https://www.udemy.com/course/machine-learning-with-python/) - 通过 Python 学习机器学习的基础，包括监督学习、非监督学习和模型评估等。
+
+40. [Deep Learning for Business with TensorFlow (Udemy)](https://www.udemy.com/course/deep-learning-for-business-with-tensorflow/) - 深度学习商业应用课程，专注于利用 TensorFlow 构建商业智能和预测模型。
+
+41. [Natural Language Processing with Deep Learning in Python (Udemy)](https://www.udemy.com/course/natural-language-processing-with-deep-learning-in-python/) - 通过 Python 学习使用深度学习进行自然语言处理（NLP）。
+
+42. [Computer Vision with Python (Udemy)](https://www.udemy.com/course/computer-vision-with-python/) - 使用 Python 和 OpenCV 学习计算机视觉技术，涵盖图像处理、对象检测等内容。
+
+43. [Generative Adversarial Networks (GANs) Specialization (Coursera)](https://www.coursera.org/specializations/generative-adversarial-networks) - Coursera 上的 GANs 专项课程，深入学习生成对抗网络（GAN）和其应用。
+
+44. [TensorFlow for Deep Learning (Udacity)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - 通过 TensorFlow 学习深度学习模型的创建和训练，适合有编程基础的学习者。
+
+45. [AI Programming with Python Nanodegree (Udacity)](https://www.udacity.com/course/ai-programming-with-python-nanodegree--nd089) - Udacity 的 AI 编程课程，涵盖 Python 编程、数据结构、算法和深度学习。
+
+46. [Machine Learning with Python (Coursera)](https://www.coursera.org/learn/machine-learning-with-python) - 由 IBM 提供的机器学习课程，使用 Python 讲解机器学习算法和实践。
+
+47. [Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188) - 使用 PyTorch 进行深度学习的课程，适合学习者想要深入理解神经网络和模型训练。
+
+48. [Artificial Intelligence: A Modern Approach (Stanford)](https://www.ai-class.com/) - 斯坦福大学的经典人工智能课程，涉及搜索算法、学习算法、逻辑推理等领域。
+
+49. [ML and AI for Business (Udemy)](https://www.udemy.com/course/machine-learning-and-artificial-intelligence-for-business/) - 适合商业专业人士的 AI 和机器学习课程，学习如何将这些技术应用于实际业务场景中。
+
+50. [Mastering Machine Learning with Python (Udemy)](https://www.udemy.com/course/master-machine-learning-with-python/) - 通过 Python 学习如何构建机器学习模型，包括从数据预处理到模型部署的全过程。
+
+51. [AI with Python (Udemy)](https://www.udemy.com/course/artificial-intelligence-with-python/) - 介绍如何使用 Python 实现人工智能应用，适合 AI 初学者。
+
+52. [Introduction to Artificial Intelligence with Python (Harvard)](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) - 哈佛大学的 AI 入门课程，使用 Python 讲解人工智能技术，包括搜索算法、神经网络等。
+
+53. [Applied Machine Learning (Coursera)](https://www.coursera.org/specializations/applied-machine-learning) - 专注于机器学习算法的实际应用，涵盖回归、分类、聚类、特征选择等。
+
+54. [Advanced Deep Learning & Reinforcement Learning (Udacity)](https://www.udacity.com/course/advanced-deep-learning-and-reinforcement-learning-nanodegree--nd893) - Udacity 提供的深度学习和强化学习高级课程，适合有基础的学习者，深入理解复杂模型和算法。
+
+### [📖电子书籍精选](books)
+***有关AI方向学习的电子书资源***
+
+1. [《深度学习》 - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)  
+   深度学习领域的经典教材，涵盖了深度学习的基础知识、卷积神经网络、递归神经网络等内容。
+
+2. [《机器学习实战》 - Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)  
+   吴恩达教授编写的机器学习实践指南，重点讲解如何搭建、调优和优化机器学习系统。
+
+3. [《动手学深度学习》 - 赵志红, 李沐](https://zh.d2l.ai/)  
+   基于 Python 和 MXNet 的深度学习实践书籍，适合从零开始的学习者。
+
+4. [《Python机器学习》 - Sebastian Raschka](https://sebastianraschka.com/books.html)  
+   介绍如何使用 Python 及其相关库（如 scikit-learn）来实现机器学习算法，适合初学者和中级开发者。
+
+5. [《Python 深度学习》 - François Chollet](https://www.packtpub.com/product/python-deep-learning-second-edition/9781838983011)  
+   Keras 的创造者 François Chollet 编写的深度学习书籍，结合了理论与实践，适合开发者和数据科学家。
+
+6. [《深度学习入门：基于Python的理论与实现》 - 斋藤康毅](https://www.oreilly.com/library/view/deep-learning-from/9781492041412/)  
+   本书以 TensorFlow 和 Keras 为工具，讲解深度学习的基本原理和实现方法。
+
+7. [《机器学习：概率视角》 - Kevin P. Murphy](http://www.cs.ubc.ca/~murphyk/MLbook/)  
+   深入探讨机器学习中的概率模型和推理方法。
+
+8. [《强化学习：An Introduction》 - Richard S. Sutton & Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)  
+   深入讲解强化学习的经典教材，重点介绍强化学习的核心算法和应用。
+
+9. [《深度强化学习》 - 刘建平](https://book.douban.com/subject/27030016/)  
+   详细讲解了深度强化学习的基本理论、常用算法以及应用。
+
+10. [《TensorFlow 深度学习》 - 认证作者](https://www.packtpub.com/product/learn-tensorflow-2-0/9781800206025)  
+    该书详细讲解了 TensorFlow 框架的使用方法，适合希望掌握 TensorFlow 并应用于实际项目的读者。
+
+11. [《统计学习方法》 - 李航](https://github.com/cszhangzhen/MachineLearning)  
+    详细介绍了统计学习方法，重点讲解了支持向量机（SVM）、决策树、神经网络等常用算法。
+
+12. [《机器学习》 - 周志华](https://github.com/datawhalechina/leedl-tutorial)  
+    系统介绍机器学习的主要方法，包括监督学习、无监督学习、强化学习等内容。
+
+13. [《计算机视觉：算法与应用》 - Richard Szeliski](http://szeliski.org/Book/)  
+    介绍计算机视觉的基础理论和实际应用，适合计算机视觉研究人员和开发者。
+
+14. [《深度学习与计算机视觉》 - 李沐](https://zh.d2l.ai/chapter_computer-vision/index.html)  
+    专注于深度学习在计算机视觉中的应用，包括图像分类、目标检测、图像生成等。
+
+15. [《Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow》 - Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032630/)  
+    通过 Scikit-Learn、Keras 和 TensorFlow 实现机器学习和深度学习，覆盖了实际项目中的常见问题和解决方案。
+
+16. [《深度学习：构建神经网络的艺术与科学》 - 迈克尔·尼尔森](https://www.nature.com/articles/167101)  
+    深入浅出地讲解了神经网络的构建和训练，适合有一定基础的学习者。
+
+17. [《深度学习实战：基于TensorFlow与Keras》 - 杨青](https://www.packtpub.com/product/learn-tensorflow-2-0/9781800206025)  
+    本书通过大量实例，深入讲解了如何使用 TensorFlow 和 Keras 进行深度学习。
+
+18. [《Data Science from Scratch》 - Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041139/)  
+    从零开始讲解数据科学，包括数据清洗、可视化、机器学习等。
+
+19. [《Python for Data Analysis》 - Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957660/)  
+    通过 Python 的 Pandas 库进行数据分析，适合数据科学领域的初学者和中级学习者。
+
+20. [《Machine Learning Yearning》 - Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)  
+    吴恩达教授的机器学习实践指南，重点讲解如何搭建、调优和优化机器学习系统。
+
+21. [《Hands-On Deep Learning with TensorFlow》 - Dan Van Boxel](https://www.packtpub.com/product/hands-on-deep-learning-with-tensorflow/9781788621757)  
+    通过 TensorFlow 构建深度学习模型，并学习如何调优和部署。
+
+22. [《AI Superpowers: China, Silicon Valley, and the New World Order》 - Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-Silicon-Valley-Order/dp/1328691804)  
+    讨论人工智能的未来发展，特别是中国和硅谷的AI竞争。
+
+23. [《Deep Reinforcement Learning Hands-On》 - Maxim Lapan](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on/9781838984393)  
+    通过实践学习深度强化学习，内容涵盖深度 Q 网络（DQN）、策略梯度等强化学习方法。
+
+24. [Data Science from Scratch by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041139/)  
+    从零开始讲解数据科学，包括数据清洗、可视化、机器学习等。
+
+25. [Deep Learning for Computer Vision by Rajalingappaa Shanmugamani](https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788621757)  
+    深度学习在计算机视觉中的应用，涵盖从图像分类到目标检测等多个应用。
+
+### [📰经典论文](papers)
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
 - [ResNet (Deep Residual Learning)](https://arxiv.org/abs/1512.03385)
 
 - [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 
-### 🧰开发工具
-- [Google Colab](https://colab.research.google.com/)
-
-- [VS Code](https://code.visualstudio.com/)
-
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
 
 ## 💖 致谢
 - 开源社区提供的优秀工具
