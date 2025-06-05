@@ -26,6 +26,16 @@
 ✅ 定期更新，聚焦主流与前沿  
 ✅ 欢迎开源社区共同建设
 
+
+## 🔍 快速入口
+
+| 我是...  | 快速入口                                                         |
+| ------ | ------------------------------------------------------------ |
+| 初学者    | [📘 Python 快速入门](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math) |
+| 有基础者   | [📘 机器学习核心概念](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)                 |
+| 想直接做项目 | [🔧 实战项目集](https://github.com/pytorch/examples)                         |
+| 研究爱好者  | [📘 论文精读指南](https://github.com/terryum/awesome-deep-learning-papers)           |
+
 > 💡**不再信息过载，不再无从下手，从这里开始系统掌握 AI。**
 
 ---
@@ -2232,15 +2242,6 @@ pip install detectron2
 ```
 
 
-
-## 🔍 快速入口
-
-| 我是...  | 快速入口                                                         |
-| ------ | ------------------------------------------------------------ |
-| 初学者    | [📘 Python 快速入门](https://github.com/0voice/learning-Journey-AI/tree/main/Python%20and%20Math) |
-| 有基础者   | [📘 机器学习核心概念](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)                 |
-| 想直接做项目 | [🔧 实战项目集](https://github.com/pytorch/examples)                         |
-| 研究爱好者  | [📘 论文精读指南](https://github.com/terryum/awesome-deep-learning-papers)           |
 
 ## 🚧 实战项目示例
 ### CNN图像分类示例 - PyTorch
