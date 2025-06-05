@@ -1,16 +1,18 @@
 # 📖 有关AI方向学习的电子书合辑！！！
 
+## AI 电子书资源
+
 1. [《深度学习》 - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)  
    深度学习领域的经典教材，涵盖了深度学习的基础知识、卷积神经网络、递归神经网络等内容。
 
 2. [《机器学习实战》 - Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)  
-   吴恩达教授编写的机器学习项目实践指南，重点讲解如何搭建、调优和优化机器学习系统。
+   吴恩达教授编写的机器学习实践指南，重点讲解如何搭建、调优和优化机器学习系统。
 
 3. [《动手学深度学习》 - 赵志红, 李沐](https://zh.d2l.ai/)  
    基于 Python 和 MXNet 的深度学习实践书籍，适合从零开始的学习者。
 
 4. [《Python机器学习》 - Sebastian Raschka](https://sebastianraschka.com/books.html)  
-   介绍如何使用 Python 及其相关库（如 scikit-learn）来实现机器学习算法。
+   介绍如何使用 Python 及其相关库（如 scikit-learn）来实现机器学习算法，适合初学者和中级开发者。
 
 5. [《Python 深度学习》 - François Chollet](https://www.packtpub.com/product/python-deep-learning-second-edition/9781838983011)  
    Keras 的创造者 François Chollet 编写的深度学习书籍，结合了理论与实践，适合开发者和数据科学家。
@@ -52,10 +54,10 @@
     本书通过大量实例，深入讲解了如何使用 TensorFlow 和 Keras 进行深度学习。
 
 18. [《Data Science from Scratch》 - Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041139/)  
-    从零开始介绍数据科学，包括数据处理、可视化、机器学习等基础知识。
+    从零开始讲解数据科学，包括数据清洗、可视化、机器学习等。
 
 19. [《Python for Data Analysis》 - Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957660/)  
-    本书通过 Python 的 Pandas 库进行数据分析，适合数据科学领域的初学者和中级学习者。
+    通过 Python 的 Pandas 库进行数据分析，适合数据科学领域的初学者和中级学习者。
 
 20. [《Machine Learning Yearning》 - Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)  
     吴恩达教授的机器学习实践指南，重点讲解如何搭建、调优和优化机器学习系统。
@@ -66,11 +68,12 @@
 22. [《AI Superpowers: China, Silicon Valley, and the New World Order》 - Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-Silicon-Valley-Order/dp/1328691804)  
     讨论人工智能的未来发展，特别是中国和硅谷的AI竞争。
 
-23. [《Deep Learning for Computer Vision》 - Rajalingappaa Shanmugamani](https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788621757)  
+23. [《Deep Reinforcement Learning Hands-On》 - Maxim Lapan](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on/9781838984393)  
+    通过实践学习深度强化学习，内容涵盖深度 Q 网络（DQN）、策略梯度等强化学习方法。
+
+24. [Data Science from Scratch by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041139/)  
+    从零开始讲解数据科学，包括数据清洗、可视化、机器学习等。
+
+25. [Deep Learning for Computer Vision by Rajalingappaa Shanmugamani](https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788621757)  
     深度学习在计算机视觉中的应用，涵盖从图像分类到目标检测等多个应用。
 
-24. [《Neural Networks and Deep Learning》 - Michael Nielsen](http://neuralnetworksanddeeplearning.com/)  
-    一本免费的在线书籍，详细讲解神经网络和深度学习的基础知识。
-
-25. [《Machine Learning with Python》 - Andreas C. Müller, Sarah Guido](https://www.oreilly.com/library/view/machine-learning-with/9781449369415/)  
-    介绍如何使用 Python 和 Scikit-Learn 进行机器学习，包括分类、回归和聚类等技术。
