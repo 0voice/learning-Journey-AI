@@ -152,7 +152,7 @@ print('训练完成!')
 《[Deep Learning](https://github.com/exacity/deeplearningbook-chinese/tree/master)》
 
 - **论文**
-[Attention is All You Need](https://github.com/0voice/learning-Journey-AI/blob/main/papers%20of%20deep%20learning/Attention%20Is%20All%20You%20Need.pdf) · ResNet
+[Attention is All You Need](https://github.com/0voice/learning-Journey-AI/blob/main/papers%20of%20deep%20learning/Attention%20Is%20All%20You%20Need.pdf)
 
 - **开发工具**
 [Google Colab](https://colab.research.google.com/)
@@ -160,6 +160,6 @@ print('训练完成!')
 ### 💖 致谢
 - 开源社区提供的优秀工具
 
-- 教育先驱：社会各界AI学者
+- 教育先驱：社会各界AI学者，吴恩达教授、李飞飞教授等教育先驱
 
-- 每一位使用和传播资料的学习者
+- 您！每一位使用和传播资料的学习者
