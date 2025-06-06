@@ -2332,7 +2332,11 @@ print('训练完成!')
 
 ## [🔍 更多完整项目：](Project)
 
-- [NLP](https://github.com/0voice/learning-Journey-AI/tree/main/Project/NLP)
+- [NLP — NLP 实战项目集](https://github.com/0voice/learning-Journey-AI/tree/main/Project/NLP)
+- [Phase0 — 基础编程练习合集](https://github.com/0voice/learning-Journey-AI/tree/main/Project/Phase0)
+- [Phase1 — 机器学习基础项目集](https://github.com/0voice/learning-Journey-AI/tree/main/Project/Phase1)
+- [Phase2 — 深度学习实战项目集（PyTorch）](https://github.com/0voice/learning-Journey-AI/tree/main/Project/Phase2)
+- [Phase3：AI 计算机视觉实战项目合集](https://github.com/0voice/learning-Journey-AI/tree/main/Project/Phase3)
 - [ai-chatbot](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-chatbot)
 - [ai-code-assistant](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-code-assistant)
 - [ai-image-search](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-image-search)
