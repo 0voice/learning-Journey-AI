@@ -1,0 +1,5 @@
+{
+  "code": "def fib(n): return n if n<=1 else fib(n-1)+fib(n-2)",
+  "lint": "No syntax errors found.",
+  "suggestions": ["建议添加尾递归优化", "建议限制最大 n 避免栈溢出"]
+}
