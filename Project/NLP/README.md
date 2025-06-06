@@ -55,3 +55,10 @@ python main.py
 - 学习如何接入 Embedding 模型做问答匹配
 
 - 理解 Prompt + 解码策略在 ChatBot 生成中的作用
+
+## 📚 参考资料
+- [HuggingFace Transformers(https://huggingface.co/transformers/)
+
+- [Sentence Transformers](https://www.sbert.net/)
+
+- [THUCNews 数据集](https://thunlp.oss-cn-qingdao.aliyuncs.com/THUCNews.zip)
