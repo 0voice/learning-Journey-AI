@@ -1,0 +1,8 @@
+```txt
+openai-whisper
+transformers
+torch
+SpeechRecognition
+pydub
+flask
+numpy
