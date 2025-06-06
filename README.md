@@ -429,7 +429,7 @@ sequenceDiagram
 ## [数学基础入门：小白也能懂的AI数学](Python-and-Math/math.md)
 
 ### 线性代数 - 数据的基本骨架
-#### 矩阵运算：数据的表格
+#### 1. 矩阵运算：数据的表格
 矩阵就像Excel表格，用来组织数字：
 ```python
 import numpy as np
@@ -444,7 +444,7 @@ matrix + 2  # 所有元素加2 → [[3,4],[5,6]]
 # 矩阵乘法
 np.dot(matrix, matrix)  # 矩阵自乘 → [[7,10],[15,22]]
 ```
-#### 向量空间：箭头指向的方向
+#### 2. 向量空间：箭头指向的方向
 向量就像带方向的箭头：
 ```python
 # 在三维空间中的两个向量
@@ -457,7 +457,7 @@ dot_product = np.dot(vector_a, vector_b)  # 1×4 + 2×5 + 3×6 = 32
 # 向量长度
 length_a = np.linalg.norm(vector_a)  # √(1²+2²+3²) ≈ 3.74
 ```
-#### 特征值/特征向量：矩阵的本质
+#### 3. 特征值/特征向量：矩阵的本质
 当矩阵作用在特定向量上时不改变方向：
 ```python
 # 求矩阵的特征值和特征向量
@@ -469,7 +469,7 @@ eigenvalues, eigenvectors = np.linalg.eig(matrix)
 print("特征值:", eigenvalues)    # [3., 1.]
 print("特征向量:\n", eigenvectors)  # [[ 0.707, -0.707], [0.707, 0.707]]
 ```
-#### 奇异值分解(SVD)：数据的本质拆分
+#### 4. 奇异值分解(SVD)：数据的本质拆分
 将任意矩阵分解为三个特殊矩阵相乘：
 ```python
 # 图像压缩示例（实际应用中）
@@ -497,7 +497,7 @@ ax2.set_title('压缩后图像 (SVD)')
 plt.show()
 ```
 ### 概率统计 - 预测与不确定性的艺术
-#### 概率分布：事件发生的可能性
+#### 1. 概率分布：事件发生的可能性
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -523,7 +523,7 @@ plt.xlabel('数值')
 plt.ylabel('概率密度')
 plt.show()
 ```
-#### 贝叶斯定理：新证据更新信念
+#### 2. 贝叶斯定理：新证据更新信念
 **医生诊断疾病的情景：​**
 - 假设：
 + 疾病D患病率: 1% → P(D) = 0.01
@@ -547,7 +547,7 @@ p_disease_given_positive = (p_positive_given_disease * p_disease) / p_positive
 
 print(f"检测阳性后真正患病的概率: {p_disease_given_positive*100:.2f}%")  # ≈16.2%
 ```
-#### 假设检验：判断差异是否真实
+#### 3. 假设检验：判断差异是否真实
 **​​学生A和B谁成绩更好**​​
 + A班平均分：78分（30人）
 + B班平均分：82分（30人）
@@ -569,7 +569,7 @@ if p_value < alpha:
 else:
     print(f"p值 = {p_value:.4f} >= 0.05，两组无显著差异")
 ```
-#### 回归分析：预测趋势
+#### 4. 回归分析：预测趋势
 根据房屋面积预测价格：
 ```python
 from sklearn.linear_model import LinearRegression
@@ -596,7 +596,7 @@ plt.legend()
 plt.show()
 ```
 ### 微积分 - 变化的数学语言
-#### 导数与积分：变化与累积  
+#### 1. 导数与积分：变化与累积  
 > **​​导数 ≈ 瞬时速度，积分 ≈ 总距离​**
 ```python
 # 某车辆的运动函数：位置 = 时间²
@@ -625,7 +625,7 @@ plt.legend()
 plt.xlabel('时间(秒)')
 plt.show()
 ```
-#### 偏导数：多维空间的变化率
+#### 2. 偏导数：多维空间的变化率
 温度场的变化（随时间+位置）：
 ```python
 from mpl_toolkits.mplot3d import Axes3D
@@ -648,7 +648,7 @@ ax.set_zlabel('温度(℃)')
 ax.set_title('空间温度分布随时间变化')
 plt.show()
 ```
-#### 梯度：最陡的上山方向
+#### 3. 梯度：最陡的上山方向
 ```python
 # 定义一个山峰形状的函数
 def mountain(x, y):
@@ -676,7 +676,7 @@ plt.xlabel('X')
 plt.ylabel('Y')
 plt.show()
 ```
-#### 泰勒级数：用多项式逼近复杂函数
+#### 4. 泰勒级数：用多项式逼近复杂函数
 用多项式逼近正弦函数：
 ```python
 # 正弦函数及其泰勒展开
@@ -703,7 +703,7 @@ plt.grid(True)
 plt.show()
 ```
 ### 优化理论 - 寻找最佳解决方案
-#### 梯度下降：一步一步找到最低点
+#### 1. 梯度下降：一步一步找到最低点
 **寻找函数最低点：**
 ```python
 # 定义函数：f(x) = x^4 - 3x^3 + 2
@@ -741,7 +741,7 @@ plt.title('梯度下降过程')
 plt.grid(True)
 plt.show()
 ```
-#### 约束优化：带限制的最优化问题
+#### 2. 约束优化：带限制的最优化问题
 ```python
 from scipy.optimize import minimize
 
@@ -766,7 +766,7 @@ solution = minimize(objective, x0, constraints=constraints)
 print(f"最小值点: ({solution.x[0]:.2f}, {solution.x[1]:.2f})")
 print(f"最小值: {solution.fun:.4f}")
 ```
-#### 凸优化基础：不会陷入局部最优的特例
+#### 3. 凸优化基础：不会陷入局部最优的特例
 ```
 graph LR
     A[优化问题] --> B{是否为凸？}
@@ -783,7 +783,7 @@ graph LR
 1. 凸问题总能找到全局最优解  
 2. 机器学习中常将非凸问题转化为凸问题求解
 
-#### 学习率策略：智能调整学习步伐
+#### 4. 学习率策略：智能调整学习步伐
 不同学习率策略对比：
 ```python
 # 三种学习率策略
@@ -814,7 +814,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-## 数学在AI中的实际应用
+### 数学在AI中的实际应用
 **典型AI任务中涉及的数学：**
 | AI模型       | 线性代数 | 概率统计 | 微积分 | 优化方法 |
 |--------------|----------|----------|--------|----------|
