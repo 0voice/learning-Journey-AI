@@ -1,0 +1,7 @@
+#torch
+#transformers
+#faiss-cpu
+#flask
+#pandas
+#numpy
+#Pillow
