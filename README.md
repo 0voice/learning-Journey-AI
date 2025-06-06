@@ -1105,6 +1105,8 @@ random_search.fit(X_train, y_train)
 ## 📘 推荐资源：
 - [Andrew Ng 机器学习课程](https://www.coursera.org/learn/machine-learning)
 - [📖 《机器学习》 - 周志华](https://book.douban.com/subject/26708119/)
+- [Kaggle](https://www.kaggle.com/)
+- [UCI ML](https://archive.ics.uci.edu/)
 
 ---
 
