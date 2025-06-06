@@ -1,0 +1,8 @@
+```txt
+faiss-cpu
+torch
+torchvision
+numpy
+opencv-python
+flask
+tqdm
