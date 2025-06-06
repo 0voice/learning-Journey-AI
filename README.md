@@ -2590,7 +2590,7 @@ print('训练完成!')
 | Whisper  | [Whisper: Robust Speech Recognition (2022)](https://openai.com/research/whisper)                | 语音识别  |
 | SpeechT5 | [SpeechT5: Unified-Modal Encoder-Decoder Pre-training (2022)](https://arxiv.org/abs/2110.07205) | 多语种语音 |
 
-## 🤖 强化学习 / 自动智能体（Agent）
+### 🤖 强化学习 / 自动智能体（Agent）
 | 论文         | 链接                                                                                             | 关键词        |
 | ---------- | ---------------------------------------------------------------------------------------------- | ---------- |
 | AlphaGo    | [Mastering the game of Go (2016)](https://www.nature.com/articles/nature16961)                 | 强化学习经典     |
