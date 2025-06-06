@@ -4,13 +4,14 @@
 ---
 
 ## 📂 项目结构
-nlp/
-├── chinese_sentiment.py # 中文情感分析（电商评论）
-├── news_classification.py # 新闻文本分类（THUCNews）
-├── faq_qa.py # FAQ 问答系统（Embedding 相似度匹配）
-├── translate.py # 中英翻译（Helsinki NMT）
-├── chatbot.py # 简易中文聊天机器人（GPT2）
-└── main.py # 主程序入口（菜单选择）
+nlp/  
+
+- chinese_sentiment.py # 中文情感分析（电商评论）
+- news_classification.py # 新闻文本分类（THUCNews）
+- faq_qa.py # FAQ 问答系统（Embedding 相似度匹配）
+- translate.py # 中英翻译（Helsinki NMT）
+- chatbot.py # 简易中文聊天机器人（GPT2）
+- main.py # 主程序入口（菜单选择）
 
 ---
 
