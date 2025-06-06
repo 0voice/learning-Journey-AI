@@ -57,7 +57,7 @@ python main.py
 - 理解 Prompt + 解码策略在 ChatBot 生成中的作用
 
 ## 📚 参考资料
-- [HuggingFace Transformers(https://huggingface.co/transformers/)
+- [HuggingFace Transformers](https://huggingface.co/transformers/)
 
 - [Sentence Transformers](https://www.sbert.net/)
 
