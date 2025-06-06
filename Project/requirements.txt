@@ -1,4 +1,0 @@
-# transformers
-# torch
-# flask
-# jieba
