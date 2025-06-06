@@ -16,3 +16,20 @@ pip install -r requirements.txt
 
 **⚠️ 注意：如果使用 Tesseract OCR，需先安装 Tesseract：**
 - [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+
+## 启动
+```bash
+python app.py
+```
+
+## 示例使用：
+上传 examples/test1.jpg，输出 JSON 批改结果:
+```json
+{
+  "Q1": {"expected": "3x+5", "actual": "3x + 5", "correct": true},
+  "Q2": {"expected": "1/2", "actual": "0.5", "correct": true}
+}
+```
+
+
+
