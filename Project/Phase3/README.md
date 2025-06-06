@@ -17,4 +17,17 @@ git clone https://github.com/yourname/cv_projects.git
 cd cv_projects
 pip install -r requirements.txt
 python main.py
+```
 
+按提示输入编号，选择你要运行的项目。
+
+## 🛠️ 依赖说明
+- PyTorch, OpenCV, face_recognition, pytesseract, diffusers 等等
+
+- YOLOv5 需单独安装：
+
+```bash
+git clone https://github.com/ultralytics/yolov5
+cd yolov5
+pip install -r requirements.txt
+```
