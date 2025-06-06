@@ -2330,7 +2330,7 @@ for epoch in range(10):
 print('训练完成!')
 ```
 
-## 🔍 更多完整项目：
+## [🔍 更多完整项目：](Project)
 
 - [NLP](https://github.com/0voice/learning-Journey-AI/tree/main/Project/NLP)
 - [ai-chatbot](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-chatbot)
