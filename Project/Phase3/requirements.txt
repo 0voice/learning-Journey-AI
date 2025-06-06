@@ -1,0 +1,5 @@
+PyTorch
+OpenCV
+face_recognition
+pytesseract
+diffusers
