@@ -1,7 +1,7 @@
 # 🚀🚀🚀 AI Learning Hub · 2025 最强 AI 学习路线，从入门到实战，全流程自学指南
 
 <p align="center">
-  <img src="Image1.png" alt="2025 AI Learning Banner" width="100%">
+  <img src="Image2.jpg" alt="2025 AI Learning Banner" width="100%">
 </p>
 
 ---
