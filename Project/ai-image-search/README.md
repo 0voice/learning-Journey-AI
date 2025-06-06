@@ -13,3 +13,21 @@
 
 ```bash
 pip install -r requirements.txt
+```
+**项目结构:**
+project/ai-image-search/
+├── README.md
+├── requirements.txt
+├── app.py
+├── utils/
+│   ├── feature_extractor.py
+│   └── index_builder.py
+├── models/
+│   └── resnet_model.py
+├── static/
+│   └── images/                # 存储图像库
+├── example/
+│   ├── query.jpg
+│   └── search_results/
+└── index/
+    └── faiss_index.bin        # 已构建的向量索引
