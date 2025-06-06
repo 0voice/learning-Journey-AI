@@ -66,7 +66,7 @@ flowchart TD
 
 ---
 
-**<h3 id="1">[阶段 0：前置知识](Python%20and%20Math)</h3>**
+# **<h3 id="1">[阶段 0：前置知识](Python%20and%20Math)</h3>**
 ***[Python入门基础：零基础小白学习指南](Python%20and%20Math/python.md)***
 
 
@@ -829,7 +829,7 @@ plt.show()
 通过这份教程，您已经初步掌握了AI所需的数学基础。数学就像编程的"内功"，需要持续练习才能真正理解其精髓！
 
 
-**<h3 id="2">🎯 阶段 1：[机器学习：零基础入门指南](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)</h3>**
+# **<h3 id="2">🎯 阶段 1：[机器学习：零基础入门指南](https://github.com/0voice/learning-Journey-AI/tree/main/Machine%20Learning)</h3>**
 
 
 > ***什么是机器学习？***
@@ -1103,7 +1103,7 @@ random_search.fit(X_train, y_train)
 - [📖 《机器学习》 - 周志华](https://book.douban.com/subject/26708119/)
 
 
-**<h3 id="3">[🔥 阶段 2：深度学习](https://github.com/0voice/learning-Journey-AI/tree/main/Deep%20learning)</h3>**
+# **<h3 id="3">[🔥 阶段 2：深度学习](https://github.com/0voice/learning-Journey-AI/tree/main/Deep%20learning)</h3>**
 
 > ***深度学习入门指南 🚀***
 >> 深度学习就像教婴儿认识世界​​：**先认识形状（基础理论）**，**再认人脸（计算机视觉）**，  
