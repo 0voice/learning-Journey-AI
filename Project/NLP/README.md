@@ -4,8 +4,6 @@
 ---
 
 ## 📂 项目结构
-nlp/  
-
 - chinese_sentiment.py # 中文情感分析（电商评论）
 - news_classification.py # 新闻文本分类（THUCNews）
 - faq_qa.py # FAQ 问答系统（Embedding 相似度匹配）
