@@ -12,3 +12,7 @@
 
 ```bash
 pip install -r requirements.txt
+```
+
+**⚠️ 注意：如果使用 Tesseract OCR，需先安装 Tesseract：**
+- [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
