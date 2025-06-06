@@ -2332,9 +2332,25 @@ print('训练完成!')
 
 ## 🔍 更多完整项目：
 
+- [NLP](https://github.com/0voice/learning-Journey-AI/tree/main/Project/NLP)
+- [ai-chatbot](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-chatbot)
+- [ai-code-assistant](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-code-assistant)
+- [ai-image-search](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-image-search)
+- [ai-interviewer](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-interviewer)
+- [ai-math-grader](https://github.com/0voice/learning-Journey-AI/tree/main/Project/ai-math-grader)
+- [universal-recommender](https://github.com/0voice/learning-Journey-AI/tree/main/Project/universal-recommender)
 - [图像分类实战](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E5%AE%9E%E6%88%98.md)
 - [文本情感分析](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.md)
 - [聊天机器人构建](https://github.com/0voice/learning-Journey-AI/blob/main/Project/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9E%84%E5%BB%BA.md)
+
+
+### 🔗 实用资源补充
+| 类型      | 推荐链接                                                           |
+| ------- | -------------------------------------------------------------- |
+| 项目代码集   | [PyTorch Examples](https://github.com/pytorch/examples)        |
+| AI课程项目库 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/) |
+| AI比赛    | [Kaggle Competitions](https://www.kaggle.com/competitions)     |
+| NLP项目合集 | [Awesome NLP Projects](https://github.com/keon/awesome-nlp)    |
 
 ---
 
