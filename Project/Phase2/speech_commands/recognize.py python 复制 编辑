@@ -1,0 +1,9 @@
+import torchaudio
+
+def speech_command_recognizer():
+    dataset = torchaudio.datasets.SPEECHCOMMANDS("./", download=True)
+    waveform, sample_rate, label = dataset[0]
+    print("示例语音样本:")
+    print("Waveform shape:", waveform.shape)
+    print("Sample rate:", sample_rate)
+    print("Label:", label)
