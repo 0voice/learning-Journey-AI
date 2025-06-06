@@ -1,5 +1,8 @@
-PyTorch
-OpenCV
+torch
+opencv-python
 face_recognition
 pytesseract
+Pillow
 diffusers
+transformers
+accelerate
