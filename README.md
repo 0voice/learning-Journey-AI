@@ -34,7 +34,6 @@
 | 想直接做项目 | [🔧 实战项目集](https://github.com/pytorch/examples)                         |
 | 研究爱好者  | [📘 论文精读指南](https://github.com/terryum/awesome-deep-learning-papers)           |
 
----
 
 **✈️ 学习路线图 Overview**
 
@@ -206,8 +205,8 @@ first = queue.popleft()  # 服务: "第1人"
 
 ### 3. 链表/树/图
 常用数据结构可视化比较：
+
 ```mermaid
-%% 链表/树/图 - 使用Mermaid绘制
 graph TD
     A[数据结构] --> B[线性]
     A --> C[非线性]
@@ -224,6 +223,7 @@ graph TD
     F --> F1[有向图]
     F --> F2[无向图]
 ```
+
 实际应用：
 - ​​链表​​：浏览器历史记录
 - 树​​：文件系统组织
