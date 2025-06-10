@@ -5,13 +5,12 @@
   <img src="Image2.jpg" alt="2025 AI Learning Banner" width="100%">
 </p>
 
----
 
 > **掌握 AI，从这里开始**  
+> **结构化 | 持续更新 | 最新学习 |社区共建** [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)  
 > 为所有对 AI 知识感兴趣的学习者打造的 AI / ML / DL 系统学习路线，涵盖优质课程、经典书籍、融合顶级资源、代码实战与开源工具，为你打造从入门到实战再到前沿研究的 AI 成长之路。  
->> **结构化 | 持续更新 | 最新学习 |社区共建** [![GitHub Stars](https://img.shields.io/github/stars/0voice/learning-Journey-AI?style=social)](https://github.com/0voice/learning-Journey-AI)
+> An AI/ML/DL systematic learning path designed for all learners interested in AI knowledge. It covers high-quality courses, classic books, top-tier integrated resources, hands-on coding projects, and open-source tools—guiding you from beginner level to practical application and even cutting-edge research in your AI journey.
 
----
 
 **🎯 适合对象**：  
 - 想从零起步学习 AI 的开发者  
