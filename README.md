@@ -1,5 +1,5 @@
 # AI Learning Hub · 2025 最强 AI 学习路线，从入门到实战，全流程自学指南
-**The Most Comprehensive AI Learning Path in 2025: A Complete Guide from Beginner to Practical Application.**
+**The Most Comprehensive AI Learning Path in 2025: A Complete Guide from Beginner to Practical Application .**
 
 <p align="center">
   <img src="Image2.jpg" alt="2025 AI Learning Banner" width="100%">
